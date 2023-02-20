@@ -10,7 +10,6 @@ const Formulario = () => {
         Añade Pacientes y {""}
         <span className="text-indigo-600 font-bold">Administralos</span>
       </p>
-
       <form 
         action="" 
         className='bg-white shadow-md rounded-lg py-10 px-5 mb-10'
