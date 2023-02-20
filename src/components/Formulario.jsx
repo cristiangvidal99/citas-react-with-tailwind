@@ -1,6 +1,9 @@
-import React from 'react'
+import React, {useState, useEffect} from 'react';
 
 const Formulario = () => {
+
+  const [cliente, setCliente] = useState(second)
+
   return (
     <div className="md:w-1/2 lg:w-2/5">
       <h2 className="font-black text-center text-3xl">
